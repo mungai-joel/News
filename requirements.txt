@@ -1,5 +1,4 @@
 appdirs==1.4.4
-apt-clone==0.2.1
 apturl==0.5.2
 asgiref==3.3.1
 astroid==2.4.2
@@ -18,7 +17,6 @@ dbus-python==1.2.16
 defer==1.0.6
 distlib==0.3.1
 distro==1.4.0
-Django==3.1.4
 dominate==2.6.0
 entrypoints==0.3
 filelock==3.0.12
@@ -94,8 +92,6 @@ systemd-python==234
 tinycss2==1.0.2
 tldextract==2.2.1
 toml==0.10.1
-ubuntu-advantage-tools==20.3
-ubuntu-drivers-common==0.0.0
 ufw==0.36
 Unidecode==1.1.1
 urllib3==1.25.8

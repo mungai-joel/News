@@ -1,0 +1,34 @@
+h2 {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+
+/* .panel{
+    height: 245px;
+    width:400px;
+  
+    color: white;
+  
+    border: 5px;
+    padding: 8px;
+    
+  
+  } */
+
+p {
+    font-size: 15px;
+}
+
+#header {
+    color: rgb(39, 35, 35);
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+body {
+    background-color: rgb(80, 131, 114);
+}
